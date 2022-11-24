@@ -1,0 +1,5 @@
+ SELECT * FROM my-data.sql;
+
+INSERT INTO (NAME,id,OCCUPATION,CITY) VALUES ("TEJA", "5", "Developer","guntur");
+
+UPDATE my-data.sql SET NAME = "rajesh" WHERE id = 5;
